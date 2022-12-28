@@ -1,6 +1,15 @@
+#name{
+    font-family: 'Arial', 'Sans-Serif';
+    font-weight: bold;
+    font-size: 3em;
+    float: right;
+    padding-right: 13.5em;
+    padding-top: 0.5em;
+}
+
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 
 h1 {
@@ -9,19 +18,20 @@ h1 {
 }
 
 p {
+    font-family: 'Arial', 'Sans-Serif';
     font-size: 1em;
     line-height: 1em;
     color: #333;
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 5px solid #d5d5d5;
     font-size: .8em;
 }
 
 nav ul{
     font-size: 1em;
-    border-bottom: 1px solid #d5d5d5;
+    border-bottom: 10px solid #d5d5d5;
 }
 
 nav ul,
@@ -48,17 +58,11 @@ a:hover {
     color: dodgerblue;
 }
 
-.contact, .product{
+.contact{
     font-family: 'Arial', 'Sans-Serif';
     font-size: 1em;
 } 
 
 ul li {
     list-style: none;
-}
-
-#name{
-    font-family: 'Arial', 'Sans-Serif';
-    font-weight: bold;
-    font-size: 2.5em;
 }
