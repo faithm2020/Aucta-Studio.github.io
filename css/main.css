@@ -19,7 +19,7 @@ footer {
     font-size: .8em;
 }
 
-nav{
+nav ul{
     border-bottom: 10px solid #d5d5d5;
 }
 
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: dodgerblue;
 }
 
 ul.posts {
@@ -58,5 +58,5 @@ ul.posts li {
 #name{
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: bold;
-    font-size: 3em;
+    font-size: 4em;
 }
