@@ -19,6 +19,10 @@ footer {
     font-size: .8em;
 }
 
+nav{
+    border-bottom: 1px solid #d5d5d5;
+}
+
 nav ul,
 footer ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
@@ -49,4 +53,10 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+#name{
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
+    font-size: 2em;
 }
